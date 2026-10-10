@@ -5,3 +5,5 @@
 - **Tên môn học:** Lập trình .NET
 - **Tên bài tập:** BT_TH_10-10-2026
 
+### NOTE: Mỗi 1 file có 1 file README.md riêng
+
